@@ -1,10 +1,95 @@
-- Hello there! 👋 I'm Naseeb Panghal, a passionate technologist and a Master's graduate in Computer Applications from MDU University. I take a great interest in solving complex problems and building beautiful, user-friendly web interfaces.
+# Hi, I'm Naseeb 👋
 
-Over the years, I've honed my skills in Frontend Development, and my tech stack includes Angular, TypeScript, HTML, and CSS. I believe that the key to a great application is not just about the robust backend, but also an intuitive and responsive frontend.
+**Senior Frontend Engineer (Angular & TypeScript)**  
+Building real-time, product-focused web apps and shipping small tools that I actually use every day.
 
-I'm always eager to collaborate on projects and ideas or contribute to open-source projects. Constantly learning and evolving my skills is something that I believe firmly in. I aim to create impact and value through the fusion of aesthetics and functionality.
+---
 
-Feel free to explore my repositories or get in touch if you're interested in my work. Looking forward to creating awesome digital solutions together!
+## 🧑‍💻 About me
+
+- 3+ years building and scaling **Angular SPAs** at a product-based startup  
+- Web App Lead for a **real-time collaboration platform** (chat, video, tasks, sprints, calendar, geo features)  
+- Comfortable owning features **end-to-end** – from UX flow and API contracts to deployment and monitoring  
+- Enjoy mentoring junior devs, doing thoughtful code reviews, and keeping the frontend architecture clean  
+- Curious about **AI tooling, agentic workflows and Chrome extensions** that make day-to-day work smoother
+
+---
+
+## 🛠 Tech stack
+
+**Frontend**
+
+- Angular (13–19), TypeScript, JavaScript  
+- HTML5, CSS3 / SCSS, Angular Material  
+- RxJS, WebSockets, Web Workers
+
+**Architecture & APIs**
+
+- SPA architecture, modular & lazy-loaded features  
+- Real-time communication (XMPP / Openfire, WebSockets)  
+- REST API design & integration, error handling, state management
+
+**Tools & Platforms**
+
+- Git, GitHub, Postman, Figma  
+- Supabase, Firebase  
+- DigitalOcean, Nginx  
+- VS Code / WebStorm / Cursor
+
+---
+
+## 📌 Featured projects
+
+### 🧩 Real-time Collaboration Web App (VijayiWFH)
+
+Core frontend owner for a collaboration platform with:
+
+- 4–5 main modules: **chat, video calls, tasks/sprints, dashboards, calendar views, geo features**  
+- Upgraded the app from **Angular 13 → 19**, refactored legacy code and improved key page load times  
+- Implemented **real-time chat** using WebSockets, XMPP/Openfire and Web Workers with multi-tab sync  
+- Delivered 50+ production screens and worked closely with backend/product on flows and APIs
+
+> _This is my main full-time work; code is private, but happy to walk through architecture and decisions._
+
+---
+
+### 📄 AI Resume Checker
+
+**Stack:** Angular, FastAPI, Supabase, DigitalOcean, Nginx  
+
+- Built an Angular SPA that analyzes resumes and provides **ATS-style scoring and structured feedback**  
+- Integrates LLM-powered APIs to highlight skills, experience and formatting gaps  
+- Deployed on a DigitalOcean VPS with Nginx, SSL and environment-specific builds  
+
+🔗 Live: [https://airesumechecker.io](https://airesumechecker.io)
+
+---
+
+### 🔗 Chrome extensions
+
+- **Today in Focus / Day Planner** – simple daily planning extension for MITs, notes and end-of-day reflection  
+- **MindMap Clipper** – quick way to capture ideas and links from your ongoing reading into a structured map
+
+> These are personal productivity tools; repos / store links coming soon.
+
+---
+
+## 🤝 What I’m looking for
+
+- Frontend / **Angular** roles where I can own significant parts of the web app and help shape the product  
+- Teams that care about **clean architecture, performance, DX and real user problems**, not just ticket counts  
+- Opportunities to work more with **AI-assisted workflows, agentic systems and developer tools**
+
+If this sounds aligned, I’d love to connect.
+
+---
+
+## 📫 Get in touch
+
+- ✉️ Email: **naseebsingh3510@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/naseebpanghal1434](https://www.linkedin.com/in/naseebpanghal1434/)  
+- 🐦 X (Twitter): [@naseeb_dev](https://x.com/naseeb_dev)
+
 
 <!---
 naseebpanghal1434/naseebpanghal1434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
