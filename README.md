@@ -1,6 +1,6 @@
 # Hi, I'm Naseeb 👋
 
-**Senior Frontend Engineer (Angular & TypeScript)**  
+**Frontend Engineer (Angular & TypeScript)**  
 Building real-time, product-focused web apps and shipping small tools that I actually use every day.
 
 ---
