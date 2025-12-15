@@ -1,97 +1,82 @@
 # Hi, I'm Naseeb 👋
+**Angular Developer | Expanding to Full Stack (Python/FastAPI) | AI/LLM Integration**
 
-**Frontend Engineer (Angular & TypeScript)**  
-Building real-time, product-focused web apps and shipping small tools that I actually use every day.
+3+ years building real-time Angular SPAs. Now shipping full-stack AI products and small tools I actually use.
 
 ---
 
 ## 🧑‍💻 About me
 
-- 3+ years building and scaling **Angular SPAs** at a product-based startup  
-- Web App Lead for a **real-time collaboration platform** (chat, video, tasks, sprints, calendar, geo features)  
-- Comfortable owning features **end-to-end** – from UX flow and API contracts to deployment and monitoring  
-- Enjoy mentoring junior devs, doing thoughtful code reviews, and keeping the frontend architecture clean  
-- Curious about **AI tooling, agentic workflows and Chrome extensions** that make day-to-day work smoother
+- 3+ years building and scaling **Angular SPAs** at a product-based startup
+- Web App Lead for a **real-time collaboration platform** (50+ screens: chat, video, tasks, calendar, geo features)
+- Recently shipped a **full-stack AI product** solo—Angular, FastAPI, Supabase, LLM APIs, cloud deployment
+- Comfortable owning features **end-to-end**—from architecture and API contracts to deployment
+- Expanding into **Python/FastAPI backend development** and **AI/LLM integration**
 
 ---
 
 ## 🛠 Tech stack
 
 **Frontend**
+- Angular (13–19), TypeScript, RxJS
+- HTML5, SCSS, Angular Material
+- WebSockets, SharedWorker, Web Workers
 
-- Angular (13–19), TypeScript, JavaScript  
-- HTML5, CSS3 / SCSS, Angular Material  
-- RxJS, WebSockets, Web Workers
+**Backend & AI** *(expanding)*
+- Python, FastAPI, REST API design
+- Supabase (PostgreSQL), Firebase
+- OpenRouter API, OpenAI API, Prompt Engineering
 
-**Architecture & APIs**
-
-- SPA architecture, modular & lazy-loaded features  
-- Real-time communication (XMPP / Openfire, WebSockets)  
-- REST API design & integration, error handling, state management
-
-**Tools & Platforms**
-
-- Git, GitHub, Postman, Figma  
-- Supabase, Firebase  
-- DigitalOcean, Nginx  
-- VS Code / WebStorm / Cursor
+**Real-Time & DevOps**
+- WebSockets, XMPP/Openfire, SharedWorker
+- Docker, Nginx, DigitalOcean, Git, CI/CD
 
 ---
 
 ## 📌 Featured projects
 
-### 🧩 Real-time Collaboration Web App (VijayiWFH)
-
-Core frontend owner for a collaboration platform with:
-
-- 4–5 main modules: **chat, video calls, tasks/sprints, dashboards, calendar views, geo features**  
-- Upgraded the app from **Angular 13 → 19**, refactored legacy code and improved key page load times  
-- Implemented **real-time chat** using WebSockets, XMPP/Openfire and Web Workers with multi-tab sync  
-- Delivered 50+ production screens and worked closely with backend/product on flows and APIs
-
-> _This is my main full-time work; code is private, but happy to walk through architecture and decisions._
-
----
-
 ### 📄 AI Resume Checker
+**Stack:** Angular, FastAPI, Supabase, OpenRouter/LLM APIs, DigitalOcean
 
-**Stack:** Angular, FastAPI, Supabase, DigitalOcean, Nginx  
+- Full-stack AI app analyzing resumes for ATS compliance with actionable feedback
+- Integrated multiple LLM providers (GPT, Google models) via OpenRouter with custom prompt engineering
+- Designed Supabase schema for users, resumes, and analysis history
+- Deployed end-to-end on DigitalOcean VPS with Nginx, SSL, environment configs
 
-- Built an Angular SPA that analyzes resumes and provides **ATS-style scoring and structured feedback**  
-- Integrates LLM-powered APIs to highlight skills, experience and formatting gaps  
-- Deployed on a DigitalOcean VPS with Nginx, SSL and environment-specific builds  
-
-🔗 Live: [https://airesumechecker.io](https://airesumechecker.io)
-
----
-
-### 🔗 Chrome extensions
-
-- **Today in Focus / Day Planner** – simple daily planning extension for MITs, notes and end-of-day reflection  
-- **MindMap Clipper** – quick way to capture ideas and links from your ongoing reading into a structured map
-
-> These are personal productivity tools; repos / store links coming soon.
+🔗 Live: [airesumechecker.io](https://airesumechecker.io)
 
 ---
 
-## 🤝 What I’m looking for
+### 🧩 Real-time Collaboration Platform *(Vijayi WFH)*
+**Role:** Web App Lead | **Stack:** Angular, WebSockets, XMPP/Openfire, SharedWorker
 
-- Frontend / **Angular** roles where I can own significant parts of the web app and help shape the product  
-- Teams that care about **clean architecture, performance, DX and real user problems**, not just ticket counts  
-- Opportunities to work more with **AI-assisted workflows, agentic systems and developer tools**
+- Own frontend architecture for 50+ production screens across chat, video, tasks, dashboards, calendar
+- Upgraded app from **Angular 13 → 19**, reduced key page load times from ~3.5s to ~2.0s
+- Architected real-time chat with **WebSockets + SharedWorker** for cross-tab state sync and reconnection logic
+- Design REST API contracts with backend team—schemas, error patterns, edge cases
 
-If this sounds aligned, I’d love to connect.
+> _Full-time work; code is private, happy to walk through architecture._
+
+---
+
+### 🔗 Chrome Extensions
+
+- **[Day Planner](https://chromewebstore.google.com/detail/work-and-day-planner/kipkkdhgffenhgfdnbpmfophffhfpdib)** – Daily task management with MITs, notes, EOD summaries *(live on Chrome Web Store)*
+- **[MindMap Clipper](https://chromewebstore.google.com/detail/mindmap-clipper/djajjbbnmmpeabjmniciodjfgjljdmhc)** – Capture reading highlights, sync to Notion via API
+
+---
+
+## 🎯 What I'm looking for
+
+- **Angular-heavy full-stack roles** where I can leverage frontend expertise while growing backend skills
+- Teams building **AI-integrated products** or working with LLM APIs
+- Early-stage startups where I can **own features end-to-end**—not just push tickets
+- Clean architecture, real problems, shipping over perfection
 
 ---
 
 ## 📫 Get in touch
 
-- ✉️ Email: **naseebsingh3510@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/naseebpanghal1434](https://www.linkedin.com/in/naseebpanghal1434/)  
-- 🐦 X (Twitter): [@naseeb_dev](https://x.com/naseeb_dev)
-
-
-<!---
-naseebpanghal1434/naseebpanghal1434 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✉️ **naseebsingh3510@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/naseebpanghal1434/)  
+🐦 [X/Twitter](https://x.com/naseeb_dev)
